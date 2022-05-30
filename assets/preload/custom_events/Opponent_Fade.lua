@@ -1,6 +1,6 @@
 -- Event notes hooks
 function onEvent(name, value1, value2)
-	if name == 'Opponent Fade' then
+	if name == 'Opponent_Fade' then
 		duration = tonumber(value1);
 		if duration < 0 then
 			duration = 0;

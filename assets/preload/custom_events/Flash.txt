@@ -1,0 +1,2 @@
+Value 1: Imagen
+Value 2: cuánto tarda en desaparecer
