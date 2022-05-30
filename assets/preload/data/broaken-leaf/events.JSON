@@ -1,0 +1,156 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "bg",
+		"player1": "pibfriendalt",
+		"player2": "glitch",
+		"player3": null,
+		"healthdrain": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						"5"
+					]
+				]
+			],
+			[
+				10583.3333333333,
+				[
+					[
+						"Image Flash",
+						"po",
+						"0.1"
+					]
+				]
+			],
+			[
+				10666.6666666667,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						"5"
+					]
+				]
+			],
+			[
+				32000,
+				[
+					[
+						"Image Flash",
+						"po",
+						"0.1"
+					]
+				]
+			],
+			[
+				53250,
+				[
+					[
+						"Image Flash",
+						"po",
+						"0.1"
+					]
+				]
+			],
+			[
+				72083.3333333334,
+				[
+					[
+						"Image Flash",
+						"po",
+						"0.1"
+					]
+				]
+			],
+			[
+				73750,
+				[
+					[
+						"Image Flash",
+						"po",
+						"0.1"
+					]
+				]
+			],
+			[
+				80166.6666666667,
+				[
+					[
+						"Image Flash",
+						"po",
+						"0.1"
+					]
+				]
+			],
+			[
+				85500,
+				[
+					[
+						"Image Flash",
+						"po",
+						"0.1"
+					]
+				]
+			],
+			[
+				95916.6666666666,
+				[
+					[
+						"Image Flash",
+						"po",
+						"0.1"
+					]
+				]
+			],
+			[
+				96416.6666666666,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						"5"
+					]
+				]
+			],
+			[
+				101750,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				106583.333333333,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"characterTrails": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"healthdrainKill": null,
+		"cameraMoveOnNotes": null,
+		"song": "broaken-leaf",
+		"songInstVolume": null,
+		"disableAntiMash": null,
+		"disableDebugButtons": null
+	}
+}

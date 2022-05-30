@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "bftext",
+			"speed": 0.05,
+			"portrait": "bf-pibby",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pibby are you seriously can beat naruto in one\\nhit?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pibby",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yea bf im really idiot i know that we cant beat\\nnaruto in one hit"
+		},
+		{
+			"sound": "bftext",
+			"speed": 0.05,
+			"portrait": "bf-pibby",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well what do we do now?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pibby",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "are you idiot? we are gonna do battle again"
+		},
+		{
+			"sound": "bftext",
+			"speed": 0.05,
+			"portrait": "bf-pibby",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		}
+	]
+}
